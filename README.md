@@ -5,7 +5,7 @@
 
 # 环境
 使用工具：
-- DOSBOX 版本号
+- DOSBOX 0.74-3-3
 - **masm.exe**
 - link.exe
 - debug.exe
