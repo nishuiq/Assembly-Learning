@@ -9,7 +9,7 @@ b segment
 b ends
 
 c segment
-    db 1,2,3,4,5,6,7,8
+    db 0,0,0,0,0,0,0,0
 c ends
 
 code segment
