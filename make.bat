@@ -29,13 +29,12 @@ rem 清除临时文件
 
 :helper
 rem 帮助
-    echo =================
-    echo Command: make xxx
-    echo =================
-
-    echo Command: make clean
-    echo mean: del .ojb and .exe if exist
-    echo =================
+    echo Usage: make [command] [file ...]
+    echo To compile file.asm to file.exe
+    echo.
+    echo Usage: make [clean]
+    echo To del .ojb and .exe if exist in current path
+    echo.
     goto end
 
 :empty
